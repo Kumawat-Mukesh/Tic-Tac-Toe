@@ -23,7 +23,7 @@ A simple console-based Tic Tac Toe game implemented in Python. Two players can c
    git clone https://github.com/Kumawat-Mukesh/Tic-Tac-Toe
    ```
 2. Navigate to the project directory:
-  ```bash
+   ```bash
    cd Tic-Tac-Toe
    ```
 3. Run the game:
